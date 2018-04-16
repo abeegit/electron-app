@@ -1,0 +1,23 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "My first electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeegit/electron-app.git"
+  },
+  "author": "Abhijeet Kumar (abhijeetkumar_1992@yahoo.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abeegit/electron-app/issues"
+  },
+  "homepage": "https://github.com/abeegit/electron-app#readme",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
